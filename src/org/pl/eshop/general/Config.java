@@ -5,5 +5,5 @@ public class Config {
     public static final int PUERTO = 3306;
     public static final String BD = "tienda";
     public static final String NOMBRE_USUARIO = "root";
-    public static final String CONTRASENA_USUARIO = "";
+    public static final String CONTRASENA_USUARIO = "1234";
 }
